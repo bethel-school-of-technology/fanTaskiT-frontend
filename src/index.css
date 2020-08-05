@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background-color: #3A3FBC;
+  font-family: 'Podkova', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Roboto Slab", serif;
+}
+
+select.form-control,
+textarea.form-control,
+input.form-control {
+  font-size: 16px;
+}
+input[type=file] {
+  width: 100%;
+}
